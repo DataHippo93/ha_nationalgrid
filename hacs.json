@@ -1,8 +1,6 @@
 {
-    "name": "National Grid US",
+    "name": "National Grid US (DataHippo93 fork)",
     "homeassistant": "2026.3.0",
     "hacs": "2.0.5",
-    "country": "US",
-    "zip_release": true,
-    "filename": "national_grid_us.zip"
+    "country": "US"
 }
